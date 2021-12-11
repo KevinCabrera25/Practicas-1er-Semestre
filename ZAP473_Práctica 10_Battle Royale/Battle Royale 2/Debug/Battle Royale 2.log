@@ -1,0 +1,5 @@
+﻿  Battle Royale 2.cpp
+D:\respaldo hp pavillion ryzen\Amerike\Programación\Práctica 10 Battle Royale\Battle Royale 2\Battle Royale 2\Battle Royale 2.cpp(30,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\respaldo hp pavillion ryzen\Amerike\Programación\Práctica 10 Battle Royale\Battle Royale 2\Battle Royale 2\Battle Royale 2.cpp(60,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\respaldo hp pavillion ryzen\Amerike\Programación\Práctica 10 Battle Royale\Battle Royale 2\Battle Royale 2\Battle Royale 2.cpp(85,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Battle Royale 2.vcxproj -> D:\respaldo hp pavillion ryzen\Amerike\Programación\Práctica 10 Battle Royale\Battle Royale 2\Debug\Battle Royale 2.exe
